@@ -23,6 +23,18 @@ opacity=0
 color=0x383838
 opacity=0
 
+[forestry_shop.reward.hovered]
+color=0x9e9e9e
+opacity=0
+
+[forestry_shop.reward.selected]
+color=0x3f3f3f
+opacity=0
+
+[forestry_shop.reward.unselected]
+color=0x191900
+opacity=0
+
 ### Chatbox ###
 [chatbox.separator]
 color=0x000000
@@ -104,6 +116,42 @@ opacity=0
 
 [bank.inventory.rune_pouch.border.outer]
 color=0x383838
+opacity=0
+
+[deposit_lock.border.inner]
+color=0x595959
+opacity=0
+
+[deposit_lock.border.outer]
+color=0x383838
+opacity=0
+
+[deposit_lock.hovered.locked]
+color=0xa9a9a9
+opacity=0
+
+[deposit_lock.hovered.unlocked]
+color=0xffffff
+opacity=0
+
+[deposit_lock.locked]
+color=0x666666
+opacity=0
+
+[deposit_lock.unlocked]
+color=0x9f9f9f
+opacity=0
+
+[deposit_box.inventory.border.inner]
+color=0x595959
+opacity=0
+
+[deposit_box.inventory.border.outer]
+color=0x383838
+opacity=0
+
+[deposit_box.inventory.locked]
+color=0x666666
 opacity=0
 
 ### Combat Achivements ###
