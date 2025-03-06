@@ -2,6 +2,10 @@ Darkmode RuneLite theme for OSRS Changelog & Instructions:
 
 -----   ChangeLog   -----
 
+    06.03.2025 - v1.03
+        Removed unchanged files
+        Added ScuffUnit world map icon
+
     15.02.2025 - v1.02
         Updated pack for v1.7.0 of Resource Packs
 
