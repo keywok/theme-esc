@@ -2,6 +2,9 @@ Darkmode RuneLite theme for OSRS Changelog & Instructions:
 
 -----   ChangeLog   -----
 
+    08.03.2025 - v1.04
+        Added new Cross Sprits made by Neal <3
+
     06.03.2025 - v1.03
         Removed unchanged files
         Added ScuffUnit world map icon
