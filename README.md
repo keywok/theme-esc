@@ -3,7 +3,7 @@ Darkmode RuneLite theme for OSRS Changelog & Instructions:
 -----   ChangeLog   -----
 
     27.04.2025 - v1.05
-        Added new message graphic dot
+        Added new message graphic dot - made it a bit smaller
 
     08.03.2025 - v1.04
         Added new Cross Sprits made by Neal <3
