@@ -1,4 +1,9 @@
 Darkmode RuneLite theme for OSRS Changelog & Instructions:
+![image](https://github.com/user-attachments/assets/11f226fa-a4f7-4718-be4d-e5dcb54bcd99)
+
+Download Instructions:
+Click the big green `<> Code` button and then `Download ZIP` 
+![image](https://github.com/user-attachments/assets/e2dd7cdb-29f4-4874-b07a-166a2424d5a9)
 
 -----   ChangeLog   -----
 
